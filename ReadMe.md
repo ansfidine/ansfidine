@@ -1,5 +1,5 @@
 # 💫 About Me:
-Microsoft Engineer<br>| System Admin | M365- Exchange Online | Azure AD | Messaging & Mail flow<br>Microsoft PowerApps Dev<br>SAP consultant /SD<br>C# Developer
+Results-driven engineer specializing in Microsoft Cloud ecosystems — from Exchange Online and Azure AD to custom .NET applications. Combining deep technical expertise with strong communication skills to deliver reliable, scalable solutions for enterprise clients.
 
 
 ## 🌐 Socials:
